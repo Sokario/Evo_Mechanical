@@ -53,4 +53,4 @@ Temporary Items
 /Mechanic/Modelisation/OldVersions
 
 # ignore Proteus Old project
-*.psdbak
+*.pdsbak
