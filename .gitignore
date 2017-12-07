@@ -46,8 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# ignore lock files
+# ignore Inventor lock files
 *.lck
 
-# ignore Old folder
+# ignore Inventor Old folder
 /Mechanic/Modelisation/OldVersions
+
+# ignore Proteus Old project
+*.psdbak
